@@ -1,2 +1,2 @@
 # react-hooks
-Just another react project to practice Hooks
+Just another React project to learn and practice custom hooks
